@@ -1,0 +1,16 @@
+BACKEND:
+- single pane with more buffers
+- handle inserting in a buffer
+- handle deleting in a buffer
+- handle scrolling(v/h) a buffer
+- no word wrapping god damnit
+- handle SHIFT and CTRL for selecting and navigating text
+- handle switching buffers
+- handle multiple panes
+- handle switching panes
+OUTPUT:
+- handle outputting to a buffer without fucking wrapping
+- handle ascii graphics in a buffers
+INPUT:
+- solid GetKey function
+- only PRESSED state (no DOWN or RELEASED)
