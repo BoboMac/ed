@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -o ed && ed
+	clear && g++ -o ed.out main.cpp && ./ed.out

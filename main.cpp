@@ -5,10 +5,7 @@
 
 int main(int argc, char **argv) {
     std::vector<Pane> panes;
-    AddFirstPane(&panes); // Now there will be 1 pane (duh...)
 
-    
-    SplitPaneHoriz(panes[0], )
     // Initialize I/O
 
     // Main loop

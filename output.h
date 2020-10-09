@@ -1,10 +1,9 @@
 #pragma once
 
-void GetConsoleSize(UINT &width, UINT &height) {
-    getmaxyx(screen, height, width);
-}
-void DrawPanes(std::vector<Pane> panes) {
-    for(int i = 0; i < panes.size(); i++) {
-        
-    }
+void DrawPane() {
+    /*
+    - set the background color
+    - draw the current buffer text(buffer.on_screen_text)
+    - draw the cursor (not yet(i m gonna do the algo cuz u say u stupid))
+    */
 }
