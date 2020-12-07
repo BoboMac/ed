@@ -1,0 +1,7 @@
+exit          null ESC
+switch_pane   ctrl q
+switch_buffer ctrl w
+kill_buffer   ctrl k
+split_vert    ctrl p
+save_file     ctrl s
+open_file     ctrl o

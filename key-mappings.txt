@@ -1,0 +1,4 @@
+[ctrl-q] change panes
+[ctrl-w] change buffers
+[ctrl-n] new file
+[ctrl-o] open file (with GUI (hopefully))
